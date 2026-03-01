@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Orange County",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-03-01T07:01:30.823414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Orange County Suite",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/01_Orange_County_Suite_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Orange County Suite (Recorded At Elektra Studios, 1970)",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/02_Orange_County_Suite_(Recorded_At_Elektra_Studios,_1970)_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Orange County Girl",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/03_Orange_County_Girl_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Orange County Girl",
+      "artist": "Gwen Stefani",
+      "has_synced": false,
+      "path": "select/04_Orange_County_Girl_Gwen_Stefani.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Orange County Suite (1970)",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/05_Orange_County_Suite_(1970)_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Orange County Suite (bonus)",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/06_Orange_County_Suite_(bonus)_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Orange County Suite [Elektra Studios, 1970]",
+      "artist": "The Doors",
+      "has_synced": true,
+      "path": "select/07_Orange_County_Suite_[Elektra_Studios,_1970]_The_Doors.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Son of Orange County",
+      "artist": "The Mothers Of Invention",
+      "has_synced": true,
+      "path": "select/08_Son_of_Orange_County_The_Mothers_Of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Son Of Orange County (Live\u00001974)",
+      "artist": "Frank Zappa The Mothers",
+      "has_synced": true,
+      "path": "select/09_Son_Of_Orange_County_(Live\u00001974)_Frank_Zappa_The_Mothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Orange County Lumber Truck - Live, 1988",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/10_The_Orange_County_Lumber_Truck_-_Live,_1988_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Orange County Lumber Truck (Live, 1988)",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/11_The_Orange_County_Lumber_Truck_(Live,_1988)_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boredom (feat. Rex Orange County and Anna of the North)",
+      "artist": "Tyler, The Creator feat. Rex Orange County & Anna Of The North",
+      "has_synced": true,
+      "path": "select/12_Boredom_(feat._Rex_Orange_County_and_Anna_of_the_North)_Tyler,_The_Creator_feat._Rex_Orange_County_&_Anna_Of_The_North.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boredom (feat. Rex Orange County and Anna of the North)",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/13_Boredom_(feat._Rex_Orange_County_and_Anna_of_the_North)_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Foreword (feat. Rex Orange County)",
+      "artist": "Tyler, The Creator feat. Rex Orange County",
+      "has_synced": true,
+      "path": "select/14_Foreword_(feat._Rex_Orange_County)_Tyler,_The_Creator_feat._Rex_Orange_County.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Foreword (feat. Rex Orange County)",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/15_Foreword_(feat._Rex_Orange_County)_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Son Of Orange County (Live/1974)",
+      "artist": "Frank Zappa The Mothers",
+      "has_synced": true,
+      "path": "select/16_Son_Of_Orange_County_(Live_1974)_Frank_Zappa_The_Mothers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Kids From Orange County",
+      "artist": "Moving Units",
+      "has_synced": true,
+      "path": "select/17_The_Kids_From_Orange_County_Moving_Units.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Orange County (feat. Bizarrap, Kara Jackson & Anoushka Shankar)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/pl_01_Orange_County_(feat._Bizarrap,_Kara_Jackson_&_Anoushka_Shankar)_Gorillaz.txt"
+    }
+  ]
+}
